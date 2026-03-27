@@ -19,7 +19,7 @@ Features:
 - View Students
 
 Live Demo:
-https://your-netlify-link.netlify.app
+[https://your-netlify-link.netlify.app](https://sernstdmanagement.netlify.app/)
 
 Frontend deployed on Netlify
 Backend built with Node.js and Express

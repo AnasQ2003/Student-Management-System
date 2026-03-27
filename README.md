@@ -18,6 +18,12 @@ Features:
 - Delete Student
 - View Students
 
+Live Demo:
+https://your-netlify-link.netlify.app
+
+Frontend deployed on Netlify
+Backend built with Node.js and Express
+
 
 ![image alt](https://github.com/AnasQ2003/Student-Management-System/blob/7ac3c626d02f1de618af836eecaf1b1eab98a375/m1.png)
 ![image alt](https://github.com/AnasQ2003/Student-Management-System/blob/7ac3c626d02f1de618af836eecaf1b1eab98a375/m2.png)

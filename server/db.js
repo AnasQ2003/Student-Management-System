@@ -1,8 +1,8 @@
 const sql = require("mssql");
 
 const config = {
-  user: "nodeuser",
-  password: "node123",
+  user: "your_username",
+  password: "your_password",
   server: "localhost",
   database: "sern_project",
   options: {

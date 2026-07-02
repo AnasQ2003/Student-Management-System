@@ -14,7 +14,7 @@
 
 A full-stack **Student Management System** built with the **SERN** stack (SQL Server, Express, React, Node.js). It provides a clean and interactive dashboard to add, view, update, delete, and search student records — backed by a RESTful API and a Microsoft SQL Server database, with animated UI transitions and a live Course Distribution chart.
 
-[🌐 Live Demo](https://sernstdmanagement.netlify.app/) &nbsp;·&nbsp; [📁 Repository](https://github.com/AnasQ2003/Student-Management-System) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/AnasQ2003/Student-Management-System/issues)
+[🌐 Live Demo](https://sernstdmanagement.netlify.app/) &nbsp;·&nbsp; [📁 Repository](https://github.com/AnasQ2003/Student-Management-System) 
 
 </div>
 

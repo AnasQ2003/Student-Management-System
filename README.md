@@ -96,15 +96,15 @@ CREATE DATABASE sern_project;
 GO
 
 -- Step 2: Create a SQL login for the app
-CREATE LOGIN nodeuser WITH PASSWORD = 'node123';
+CREATE LOGIN nodeuser WITH PASSWORD 
 GO
 
 -- Step 3: Connect the login to the database
 USE sern_project;
 GO
-CREATE USER nodeuser FOR LOGIN nodeuser;
+CREATE USER nodeuser FOR LOGIN;
 GO
-ALTER ROLE db_owner ADD MEMBER nodeuser;
+ALTER ROLE db_owner ADD MEMBER;
 GO
 
 -- Step 4: Create the students table
@@ -134,10 +134,10 @@ The database connection is configured in `server/db.js`. The default config matc
 
 ```js
 const config = {
-  user: "nodeuser",
-  password: "node123",
+  user: "user",
+  password: "123",
   server: "localhost",
-  database: "sern_project",
+  database: "----",
   options: {
     instanceName: "SQLEXPRESS",
     encrypt: false,
@@ -145,8 +145,6 @@ const config = {
   }
 };
 ```
-
-> If your SQL Server instance has a different name (e.g. `MSSQLSERVER` instead of `SQLEXPRESS`), update the `instanceName` field in `db.js`.
 
 Start the backend server:
 

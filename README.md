@@ -339,7 +339,7 @@ Contributions, bug reports, and feature suggestions are welcome!
 
 ## 📜 License
 
-© 2026 **Anas Ahmed**. All Rights Reserved.
+© 2026 **Anas Ahmed Qureshi**. All Rights Reserved.
 
 ---
 

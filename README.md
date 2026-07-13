@@ -337,16 +337,44 @@ Contributions, bug reports, and feature suggestions are welcome!
 
 ---
 
-## 📜 License
+## 📄 License
 
-© 2026 **Anas Ahmed Qureshi**. All Rights Reserved.
+```
+MIT License
+
+Copyright (c) Student-Management-System---2026 AnasQ2003
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
+
+---
+
+## 👨‍💻 Author
+
+**Anas Ahmed Qureshi** — [@AnasQ2003](https://github.com/AnasQ2003)
 
 ---
 
 <div align="center">
 
-Built with ❤️ using **SQL Server · Express · React · Node.js**
+Built with ❤️ by **Anas**
 
-⭐ If you found this useful, please consider giving the repo a star!
+Made with 🔥 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
+</div>
 
 </div>

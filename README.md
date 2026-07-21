@@ -342,7 +342,7 @@ Contributions, bug reports, and feature suggestions are welcome!
 ```
 MIT License
 
-Copyright (c) Student-Management-System---2026 AnasQ2003
+Copyright (c) Student-Management-System --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
